@@ -1,3 +1,5 @@
+// under 10 minutes to understand the pb and do the solution
+
 import java.util.*;
 import java.io.*;
 import java.math.*;
